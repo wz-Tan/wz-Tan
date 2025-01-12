@@ -1,4 +1,4 @@
-# Hi ! My name is Wen Zhe 🙂 <br> 
+# Hi ! My name is Wen Zhe and I'm 19 Years Old! 🙂 <br> 
 
 ## Fun Facts About Me
 - 🧒 I started coding when I was 18. 
