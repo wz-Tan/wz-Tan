@@ -6,9 +6,9 @@
 - ♟️ Chess 🏀Basketball ⌨️Code
 
 ## Skillsets
-- Web Dev: Basic HTML and CSS
+- Web Dev: HTML, CSS (TailWindCSS), JS (React)
 - App Dev: Android Kotlin, Jetpack Compose
-- Database: SQL, Supabase API
+- Database: SQL
 - Other Languages I've Learnt: C++ and Python
 
 ## Upcoming Goals
