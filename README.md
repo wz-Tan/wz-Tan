@@ -6,7 +6,7 @@
 - ♟️ Chess 🏀Basketball ⌨️Code
 
 ## Skillsets
-- Web Dev: HTML, CSS (TailWindCSS), JS (React)
+- Web Dev: HTML, CSS (TailWindCSS), JS (ReactJS, NextJS)
 - App Dev: Android Kotlin, Jetpack Compose
 - Database: SQL
 - Other Languages I've Learnt: C++ and Python
