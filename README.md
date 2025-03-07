@@ -7,8 +7,8 @@
 
 ## Skillsets
 - Web Dev: HTML, CSS (TailWindCSS), JS (ReactJS, NextJS)
-- App Dev: Android Kotlin, Jetpack Compose
-- Database: SQL
+- App Dev: Android Kotlin, Jetpack Compose, Flutter 
+- Database: SQL, Firebase, Supabase
 - Other Languages I've Learnt: C++ and Python
 
 ## Upcoming Goals
