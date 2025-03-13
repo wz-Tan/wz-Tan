@@ -2,6 +2,9 @@
  Hi ! My name is Wen Zhe and I'm 19 Years Old! 🙂 <br><br> Fun Facts About Me<br>- 🧒 I started coding when I was 18. <br>- 🚀 I aspire to build projects that leave a positive impact on the world.<br>- ♟️ Chess 🏀Basketball ⌨️Code<br><br>Upcoming Goals<br>- Create an AI-Powered Financing App 💸<br>- Find ways to help more people :)<br><br>
 
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=wz-Tan)
+
+
 # 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[(https://linkedin.com/in/Wen Zhe Tan](https://www.linkedin.com/in/wen-zhe-tan-402772321/))<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wenzhe1423@gmail.com) 
 
@@ -14,9 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wz-Tan&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=wz-Tan)
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -24,6 +24,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wz-Tan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=wz-Tan&icon=3&color=9)](https://visitcount.itsvg.in)
 
