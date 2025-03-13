@@ -2,7 +2,7 @@
  Hi ! My name is Wen Zhe and I'm 19 Years Old! 🙂 <br><br> Fun Facts About Me<br>- 🧒 I started coding when I was 18. <br>- 🚀 I aspire to build projects that leave a positive impact on the world.<br>- ♟️ Chess 🏀Basketball ⌨️Code<br><br>Upcoming Goals<br>- Create an AI-Powered Financing App 💸<br>- Find ways to help more people :)<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[(https://linkedin.com/in/Wen Zhe Tan](https://www.linkedin.com/in/wen-zhe-tan-402772321/))<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wenzhe1423@gmail.com) 
 
 # 💻 Tech Stack:
