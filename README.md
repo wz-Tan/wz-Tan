@@ -14,6 +14,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wz-Tan&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=wz-Tan)
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
