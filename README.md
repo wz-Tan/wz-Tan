@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Dev
 ------------------
 
-I have been coding since 2024. In this period of time I have looked into various fields of the technology landscape such as Front End, Mobile and Web3. I have plans to learn AI and Backend Development in the near future.
+I code sometimes
 
 *   🌍  I'm based in Kuala Lumpur, Malaysia
 *   🖥️  See my portfolio at [my website](http://wztan.pages.dev)
