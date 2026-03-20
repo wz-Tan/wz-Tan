@@ -3,7 +3,7 @@ Student Developer<br>Front-End Web + Mobile Dev
 
 *   🖥️  Portfolio: [my website](http://wztan.pages.dev)
 *   ✉️  Email: [wztan.dev@gmail.com](mailto:wztan.dev@gmail.com)
-*   🧠  I'm currently learning Node
+*   🧠  I'm doing open source for full stack applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wen-zhe-tan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wztan.dev@gmail.com) 
