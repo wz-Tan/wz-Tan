@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student Developer<br>Front-End Web + Mobile Dev
+Full Stack and Mobile
 
 *   🖥️  Portfolio: [my website](http://wztan.pages.dev)
 *   ✉️  Email: [wztan.dev@gmail.com](mailto:wztan.dev@gmail.com)
