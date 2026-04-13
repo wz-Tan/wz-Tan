@@ -6,12 +6,12 @@ Full Stack and Mobile
 *   🧠  I'm doing open source for full stack applications
 
 ## Coding Activity Past 7 Days:
-<!--START_SECTION:Wakatime Weekly Stats-->
-<!--END_SECTION:Wakatime Weekly Stats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Coding Activity In Total:
-<!--START_SECTION:Wakatime All-Time Stats-->
-<!--END_SECTION:Wakatime All-Time Stats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wen-zhe-tan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wztan.dev@gmail.com) 
