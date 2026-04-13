@@ -5,6 +5,9 @@ Full Stack and Mobile
 *   ✉️  Email: [wztan.dev@gmail.com](mailto:wztan.dev@gmail.com)
 *   🧠  I'm doing open source for full stack applications
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wen-zhe-tan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wztan.dev@gmail.com) 
 
