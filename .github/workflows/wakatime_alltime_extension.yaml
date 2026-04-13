@@ -1,0 +1,22 @@
+name: Waka - All Time
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:        
+  update-readme-total-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: athul/waka-readme@v0.3.1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api
+          SECTION_NAME: "Wakatime All-Time Stats"
+          TIME_RANGE: all_time
+          SHOW_TOTAL: true
+          LANG_COUNT: 10
+  
