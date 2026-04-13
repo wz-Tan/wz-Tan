@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api
-          SECTION_NAME: Waka_AllTime
+          SECTION_NAME: WakaAllTime
           TIME_RANGE: all_time
           SHOW_TOTAL: true
           LANG_COUNT: 10
