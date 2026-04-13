@@ -6,6 +6,17 @@ Full Stack and Mobile
 *   🧠  I'm doing open source for full stack applications
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 22 hrs 35 mins
+
+TypeScript       12 hrs 22 mins  █████████████▓░░░░░░░░░░░   54.82 %
+JavaScript       2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Python           2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+JSON             2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+HTML             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
