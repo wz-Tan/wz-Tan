@@ -6,7 +6,7 @@ Full Stack and Mobile
 *   🧠  I'm doing open source for full stack applications
 
 ## All-Time Coding Stats:
-<!--START_SECTION:Waka_AllTime-->
+<!--START_SECTION:WakaAllTime-->
 
 ```txt
 Total Time: 545 hrs
@@ -18,11 +18,11 @@ Dart                   49 hrs 2 mins   ██▒░░░░░░░░░░�
 Python                 46 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
-<!--END_SECTION:Waka_AllTime-->
+<!--END_SECTION:WakaAllTime-->
 
 ## Coding Activity Past 7 Days:
-<!--START_SECTION:Waka_Weekly-->
-<!--END_SECTION:Waka_Weekly-->
+<!--START_SECTION:WakaWeekly-->
+<!--END_SECTION:WakaWeekly-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wen-zhe-tan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wztan.dev@gmail.com) 
