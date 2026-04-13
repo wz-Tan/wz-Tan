@@ -5,19 +5,13 @@ Full Stack and Mobile
 *   ✉️  Email: [wztan.dev@gmail.com](mailto:wztan.dev@gmail.com)
 *   🧠  I'm doing open source for full stack applications
 
-<!--START_SECTION:waka-->
+## Coding Activity Past 7 Days:
+<!--START_SECTION:Wakatime Weekly Stats-->
+<!--END_SECTION:Wakatime Weekly Stats-->
 
-```txt
-Total Time: 22 hrs 35 mins
-
-TypeScript       12 hrs 22 mins  █████████████▓░░░░░░░░░░░   54.82 %
-JavaScript       2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Python           2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-JSON             2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-HTML             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-```
-
-<!--END_SECTION:waka-->
+## Coding Activity In Total:
+<!--START_SECTION:Wakatime All-Time Stats-->
+<!--END_SECTION:Wakatime All-Time Stats-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wen-zhe-tan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wztan.dev@gmail.com) 
