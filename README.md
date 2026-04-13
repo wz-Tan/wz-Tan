@@ -5,7 +5,7 @@ Full Stack and Mobile
 *   ✉️  Email: [wztan.dev@gmail.com](mailto:wztan.dev@gmail.com)
 *   🧠  I'm doing open source for full stack applications
 
-## Coding Activity Past 7 Days:
+## All-Time Coding Stats:
 <!--START_SECTION:waka-->
 
 ```txt
