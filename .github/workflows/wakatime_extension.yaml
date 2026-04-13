@@ -18,7 +18,7 @@ jobs:
           SECTION_NAME: "Wakatime Weekly Stats"
           TIME_RANGE: last_30_days
           SHOW_TOTAL: true
-          LANG_COUNT: 5
+          LANG_COUNT: 10
           
   update-readme-total-stats:
     runs-on: ubuntu-latest
