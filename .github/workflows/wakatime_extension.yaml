@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-readme-weekly-stats:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,7 +15,22 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api
-          SECTION_NAME: "Wakatime Stats"
+          SECTION_NAME: "Wakatime Weekly Stats"
           TIME_RANGE: last_30_days
           SHOW_TOTAL: true
           LANG_COUNT: 5
+          
+  update-readme-total-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: athul/waka-readme@v0.3.1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api
+          SECTION_NAME: "Wakatime All-Time Stats"
+          TIME_RANGE: all_time
+          SHOW_TOTAL: true
+          LANG_COUNT: 5
+  
