@@ -9,18 +9,18 @@ Full Stack and Mobile
 <!--START_SECTION:WakaAllTime-->
 
 ```txt
-Total Time: 550 hrs 11 mins
+Total Time: 552 hrs 47 mins
 
-JavaScript             163 hrs 58 mins ███████▒░░░░░░░░░░░░░░░░░   29.75 %
-TypeScript             87 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-Kotlin                 79 hrs 12 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Dart                   49 hrs 2 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Python                 46 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-CSS                    38 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Move                   35 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-C++                    17 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-HTML                   11 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JSON                   7 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+JavaScript             163 hrs 58 mins ███████▒░░░░░░░░░░░░░░░░░   29.61 %
+TypeScript             89 hrs 56 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Kotlin                 79 hrs 12 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+Dart                   49 hrs 2 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Python                 46 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+CSS                    38 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Move                   35 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+C++                    17 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+HTML                   11 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+JSON                   7 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:WakaAllTime-->
