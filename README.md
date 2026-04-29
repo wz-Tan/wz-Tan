@@ -1,7 +1,6 @@
 # 💫 About Me:
 Full Stack and Mobile
 
-*   🖥️  Portfolio: [my website](http://wztan.pages.dev)
 *   ✉️  Email: [wztan.dev@gmail.com](mailto:wztan.dev@gmail.com)
 *   🧠  I'm doing full stack and looking into data frameworks
 
