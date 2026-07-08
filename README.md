@@ -28,17 +28,14 @@ JSON                   7 hrs 53 mins   ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 2 hrs 46 mins
+Total Time: 3 hrs
 
-Java           1 hr 11 mins    ██████████▓░░░░░░░░░░░░░░   42.68 %
-HTML           1 hr 5 mins     █████████▓░░░░░░░░░░░░░░░   39.01 %
-JavaScript     15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Python         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-shell script   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Other          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-CSS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Java           1 hr 34 mins    █████████████░░░░░░░░░░░░   52.26 %
+HTML           1 hr 5 mins     █████████░░░░░░░░░░░░░░░░   36.45 %
+JavaScript     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+shell script   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+CSS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
