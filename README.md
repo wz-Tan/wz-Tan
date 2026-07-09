@@ -28,14 +28,13 @@ JSON                   7 hrs 53 mins   ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 3 hrs
+Total Time: 2 hrs 33 mins
 
-Java           1 hr 34 mins    █████████████░░░░░░░░░░░░   52.26 %
-HTML           1 hr 5 mins     █████████░░░░░░░░░░░░░░░░   36.45 %
-JavaScript     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-shell script   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-CSS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java           1 hr 18 mins    ████████████▓░░░░░░░░░░░░   51.33 %
+HTML           49 mins         ████████░░░░░░░░░░░░░░░░░   32.14 %
+JavaScript     15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+CSS            5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+shell script   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
