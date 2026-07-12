@@ -1,5 +1,5 @@
-# 💫 About Me:
-Full-Stack Developer | Aspiring Product Manager | 1x Hackathon Winner
+# 💫 Tan Wen Zhe
+Full-Stack Developer | Aspiring Product Manager | 1x Hackathon Winner | CS @ Sunway & Lancaster University
 
 ## All-Time Coding Stats:
 <!--START_SECTION:WakaAllTime-->
