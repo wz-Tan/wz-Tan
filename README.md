@@ -25,15 +25,15 @@ Java                   10 hrs 58 mins  ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 3 hrs 55 mins
+Total Time: 3 hrs 30 mins
 
-Java           3 hrs 1 min     ███████████████████▒░░░░░   76.86 %
-HTML           25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Bash           15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-CSS            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-shell script   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-JavaScript     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-git ignore     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java           2 hrs 38 mins   ██████████████████▓░░░░░░   75.10 %
+HTML           23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Bash           15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+CSS            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+shell script   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JavaScript     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+git ignore     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
