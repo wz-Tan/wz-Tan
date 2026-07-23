@@ -25,13 +25,13 @@ Java                   10 hrs 58 mins  ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 30 mins
+Total Time: 55 mins
 
-HTML           26 mins         █████████████████████▒░░░   85.96 %
-JavaScript     3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-shell script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-CSS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+HTML         52 mins         ███████████████████████▓░   94.88 %
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
