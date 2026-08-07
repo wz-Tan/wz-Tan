@@ -25,11 +25,9 @@ Java                   10 hrs 59 mins  ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 2 hrs 25 mins
+Total Time: 0 secs
 
-HTML         2 hrs 12 mins   ██████████████████████▓░░   91.30 %
-CSS          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:WakaWeekly-->
