@@ -25,9 +25,10 @@ Java                   10 hrs 59 mins  ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 5 mins
 
-No activity tracked
+Bash           4 mins          ████████████████████████▓   98.67 %
+shell script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
