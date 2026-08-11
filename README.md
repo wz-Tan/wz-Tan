@@ -25,10 +25,12 @@ Java                   10 hrs 59 mins  ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 1 hr
 
-Bash           4 mins          ████████████████████████▓   98.67 %
-shell script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python         52 mins         █████████████████████▓░░░   87.25 %
+Bash           4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Java           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+shell script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
