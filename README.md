@@ -25,10 +25,9 @@ Java                   11 hrs 1 min    ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 55 mins
+Total Time: 11 mins
 
-Python   52 mins         ███████████████████████▓░   95.12 %
-Java     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Python   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
