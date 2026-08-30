@@ -25,9 +25,9 @@ Java                   11 hrs 1 min    ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 0 secs
 
-shell script   4 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:WakaWeekly-->
