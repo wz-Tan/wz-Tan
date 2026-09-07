@@ -27,9 +27,8 @@ Java                   11 hrs 1 min    ▒░░░░░░░░░░░░�
 ```txt
 Total Time: 1 hr 25 mins
 
-Go               1 hr 21 mins    ███████████████████████▓░   94.62 %
-go mod           4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go       1 hr 21 mins    ███████████████████████▓░   94.68 %
+go mod   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
