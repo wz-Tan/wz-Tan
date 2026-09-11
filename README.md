@@ -25,14 +25,14 @@ Java                   11 hrs 1 min    ▒░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 5 hrs 40 mins
+Total Time: 5 hrs 31 mins
 
-Go             4 hrs 54 mins   █████████████████████▓░░░   86.47 %
-SQL            16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Markdown       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-YAML           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-go mod         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-shell script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Go             4 hrs 35 mins   ████████████████████▓░░░░   83.13 %
+YAML           23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+SQL            16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Markdown       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+go mod         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+shell script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
