@@ -25,14 +25,14 @@ Go                     14 hrs 15 mins  ▓░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 5 hrs 2 mins
+Total Time: 4 hrs 18 mins
 
-Go             4 hrs 23 mins   █████████████████████▓░░░   87.03 %
-HTML           16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Markdown       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-go mod         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-shell script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Go             3 hrs 42 mins   █████████████████████▓░░░   86.10 %
+HTML           15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Markdown       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+go mod         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+shell script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
