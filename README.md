@@ -25,11 +25,9 @@ Go                     14 hrs 15 mins  ▓░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 21 mins
+Total Time: 0 secs
 
-Go       17 mins         ████████████████████▒░░░░   80.79 %
-HTML     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-go mod   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:WakaWeekly-->
