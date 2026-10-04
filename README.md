@@ -25,11 +25,12 @@ Go                     15 hrs 35 mins  ▓░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 29 mins
+Total Time: 1 hr 27 mins
 
-Go       29 mins         █████████████████████████   99.89 %
-go mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go         1 hr 21 mins    ███████████████████████░░   92.42 %
+Markdown   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+go mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
