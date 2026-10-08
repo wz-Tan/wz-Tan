@@ -25,14 +25,14 @@ Go                     16 hrs 58 mins  ▓░░░░░░░░░░░░�
 <!--START_SECTION:WakaWeekly-->
 
 ```txt
-Total Time: 2 hrs 8 mins
+Total Time: 3 hrs 4 mins
 
-Go               1 hr 24 mins    ████████████████▒░░░░░░░░   65.79 %
-Scala            30 mins         ██████░░░░░░░░░░░░░░░░░░░   23.64 %
-Markdown         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-sbt              4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-go mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Go               1 hr 24 mins    ███████████▒░░░░░░░░░░░░░   45.72 %
+Scala            1 hr 22 mins    ███████████▒░░░░░░░░░░░░░   44.88 %
+sbt              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Markdown         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+go mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:WakaWeekly-->
